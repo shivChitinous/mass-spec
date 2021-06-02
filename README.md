@@ -7,7 +7,7 @@
 
 ## Modelling Ion Traps and Mass Analysers
 
-Explore the physics of ion traps and mass analysers to find out how they effectively trap single ions in a potential despite the constraints of [Earnshaw's Theorem](https://en.wikipedia.org/wiki/Earnshaw%27s_theorem). Play around with different charge-to-mass ratios, electromagnetic potentials and much else.
+Explore the physics of ion traps and mass analysers to find out how they effectively trap single ions in a potential despite the constraints of [Earnshaw's Theorem](https://en.wikipedia.org/wiki/Earnshaw%27s_theorem). Play around with different charge-to-mass ratios, electromagnetic potentials and more.
 
 ### References:
 1. [Rao, P.M., D’Souza, R. & Ahmad, S.A. Quadrupole ion traps. Reson 6, 22–37 (2001)](https://link.springer.com/article/10.1007/BF02994591)
