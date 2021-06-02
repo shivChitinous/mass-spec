@@ -15,6 +15,17 @@ end
 
 # ╔═╡ b86c2020-c1ab-4957-86d0-021ca3155b6b
 begin
+	
+	import Pkg
+	Pkg.activate(mktempdir())
+	
+	Pkg.add("Plots")
+	Pkg.add("PlutoUI")
+	Pkg.add("Nabla")
+	Pkg.add("Contour")
+	Pkg.add("LaTeXStrings")
+	Pkg.add("LinearAlgebra")
+	
 	using Plots; gr()
 	using PlutoUI
 	import Contour: contours, levels, level, lines, coordinates
