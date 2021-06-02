@@ -1,2 +1,2 @@
 # mass-spec
-Modelling Ion Traps and Mass Analyzers
+Modelling Ion Traps and Mass Analysers
