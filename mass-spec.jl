@@ -37,6 +37,8 @@ end
 # ╔═╡ 0fab30c2-c295-11eb-3da9-6360f936fdba
 md"
 # Modelling Ion Traps
+
+[🏠](https://shivchitinous.github.io/mass-spec/)		|		[GitHub](https://github.com/shivChitinous/mass-spec/)
 "
 
 # ╔═╡ 91d0ed27-bc9b-4bd1-bf16-be7c05810209
